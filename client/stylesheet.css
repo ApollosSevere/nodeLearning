@@ -1,0 +1,64 @@
+main {
+    display: flex;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  
+    
+    text-align: center;
+}
+.databaseInfo {
+    border: salmon solid 2px;
+    width: 300px;
+    margin: auto;
+    padding: 0px 12px;
+}
+
+#x {
+    text-align: left;
+}
+
+#up {
+    text-align: left;
+    border: teal solid 2px;
+    width: 300px;
+    margin: 15px auto;
+    padding: 0px 12px;
+}
+
+#p {
+    text-align: left;
+    border: blue solid 2px;
+    width: 300px;
+    margin: 15px auto;
+    padding: 0px 12px;
+}
+
+#table {
+    margin: 50px auto;
+    border: purple solid 2px;
+
+}
+
+table {
+    margin: 50px auto;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid #000;
+}
+
+th, td {
+    padding: 5px;
+}
+
+#tableTHING {
+    margin-left: 50px;
+    
+}
+
+#mama {
+    margin-top: 20px;
+}
